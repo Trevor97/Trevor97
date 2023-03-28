@@ -18,3 +18,5 @@ Let's build something awesome together! 🚀
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Trevor97&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Trevor97&show_icons=true&theme=transparent&border_radius=20)
 
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+

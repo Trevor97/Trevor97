@@ -9,7 +9,7 @@ I'm an Android developer who loves to explore and experiment with new technologi
 This is where I share my projects and code contributions which range from fun little ideas I have, to various freelance projects 🤩 <br>
 I believe in the power of open-source collaboration and am always excited to connect with other developers and contribute to meaningful projects⚡ <br>
 
-Let's build something awesome together! 🚀
+👨🏾‍💻 Let's build something awesome together! 🚀
 
  🔭 I’m currently turning my ideas into fun little apps <br>
  📚 I’m currently learning Dart & Flutter

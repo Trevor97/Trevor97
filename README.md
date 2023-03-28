@@ -15,5 +15,5 @@ I believe in the power of open-source collaboration and am always excited to con
 ### My GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Trevor97&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Trevor97&show_icons=true&theme=transparent&border_radius=20
+[!My GitHub stats](https://github-readme-stats.vercel.app/api?username=Trevor97&show_icons=true&theme=transparent&border_radius=20
 
